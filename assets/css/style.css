@@ -139,6 +139,7 @@ p {
     max-width: 150px;
 }
 
+/*Styling for Sections*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -193,6 +194,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer*/
 .footer {
     padding: 30px;
     clear: both;
