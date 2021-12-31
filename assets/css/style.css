@@ -26,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation List*/
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero and Sections*/
 .hero {
     height: 800px;
     width: 100%;
@@ -77,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/*Adside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
